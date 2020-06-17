@@ -78,7 +78,7 @@ let myLink =  [
 			break;
             default:
                 alert("Choose the accurate option");       
-        }
+        };
         linkMenu = Number(prompt(menu));
      };
      alert("Thank you for using my program")
