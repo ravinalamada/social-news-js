@@ -47,3 +47,17 @@ Here are a few screenshots of the expected result.
 <img src="./images/2.png"  width="400" />
 
 <img src="./images/3.png"  width="400" />
+
+Second project: Implementing Social News Program
+
+In this coding project, you will implement a Social News Program which must follow all the rules stated in the previous lesson.
+
+After running your code, the program must show an alert box with these 4 options:
+
+0 - Quits
+
+1 - Show existing links
+
+2 - Add a link
+
+3 - Remove a link
